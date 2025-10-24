@@ -22,6 +22,7 @@
       "android": {
         "buildType": "apk"
       },
+      "image": "ubuntu-22.04-jdk-17-node-18",
       "env": {
         "EXPO_USE_JAVA_VERSION": "17"
       }
