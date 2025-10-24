@@ -3,16 +3,25 @@
     "version": ">= 16.24.1",
     "appVersionSource": "remote"
   },
+ 
   "build": {
     "development": {
       "developmentClient": true,
-      "distribution": "internal"
+      "distribution": "internal",
+      "android": {
+        "image": "latest"
+      }
     },
     "preview": {
-      "distribution": "internal"
+      "distribution": "internal",
+      "android": {
+        "image": "latest"
+      }
     },
     "production": {
-      "autoIncrement": true
+      "android": {
+        "image": "latest"
+      }
     }
   },
   "submit": {
