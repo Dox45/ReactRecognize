@@ -56,7 +56,7 @@
     "production": {
       "autoIncrement": true,
       "android": {
-        "buildType": "app-bundle"
+        "buildType": "apk"
       },
       "env": {
         "EAS_BUILD_IMAGE": "ubuntu-22.04-jdk-17-node-18"
