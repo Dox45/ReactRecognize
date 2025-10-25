@@ -8,3 +8,4 @@ Pillow
 numpy
 opencv-python
 retinaface-pytorch
+pydantic[email]
