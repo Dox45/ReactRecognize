@@ -23,7 +23,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
-const API_URL = 'https://reactrecognize.onrender.com';
+const API_URL = 'http://69.164.247.86:8000';
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
 
