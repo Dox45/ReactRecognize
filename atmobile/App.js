@@ -1390,7 +1390,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import * as FileSystem from 'expo-file-system';
 
-const API_URL = 'http://69.164.247.86:8000';
+const API_URL = 'https://attappv2.duckdns.org';
 // const API_URL = 'http://0.0.0.0:8000'
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
