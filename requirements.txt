@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+PyJWT
+bcrypt
+Pillow
+numpy
+opencv-python
+retinaface-pytorch
+pydantic[email]
